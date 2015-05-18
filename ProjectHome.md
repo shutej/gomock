@@ -1,0 +1,1 @@
+Read docs online at http://godoc.org/code.google.com/p/gomock/gomock.
